@@ -21,7 +21,7 @@ The Modern Outfit E-Commerce Application is a beautifully designed and fully fun
 - **Provider**: For state management, ensuring the app's state is efficiently managed and updated.
 - **sqflite**: For local storage, allowing the app to store and retrieve data quickly and efficiently.
 
-## Version
+## Version 💡
 
 **1.0.0** - This version is still under development. Stay tuned for more updates and features.
 
